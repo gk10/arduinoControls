@@ -3,6 +3,7 @@ int val = 0;
 int tempVal = 0;
 int maxRange = 1000;
 int minRange =0;
+//hi
 void setup() {
 
  Serial.begin(9600);
@@ -24,4 +25,3 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
-
